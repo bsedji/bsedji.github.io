@@ -1,0 +1,22 @@
+{
+  "name": "bsedji.github.io",
+  "version": "1.0.0",
+  "description": "github pages",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsedji/bsedji.github.io.git"
+  },
+  "author": "bsedji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsedji/bsedji.github.io/issues"
+  },
+  "homepage": "https://github.com/bsedji/bsedji.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
